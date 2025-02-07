@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f63e9a0-6afc-4244-b16c-6646b632ec0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/unitTest3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercices.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exercices.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_download_files.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Serin15&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Serin15/unittest3.git&quot;,
+    &quot;accountId&quot;: &quot;ec511886-f4a7-4092-a09b-4582c58ccbc3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -36,26 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_amazon.AmazonFilters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_amazon.AmazonFilters.test_search_with_filters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_download_files.TestFileDownload.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_ebay.SearchWithFilters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_ebay.SearchWithFilters.test_search_with_filters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.test_invalid_password.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.test_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_nav_menu.TestNavigation.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_nav_menu.TestNavigationMenu.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_nav_menu.TestNavigationMenu.test_navigation_links.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_nav_menu.TestSeleniumNavigation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_ResponsiveDesign.TestResponsiveDesign.executor": "Run",
+    "Python tests.Python tests for test_ResponsiveDesign.TestResponsiveDesign.test_ResponsiveDesign.executor": "Run",
+    "Python tests.Python tests for test_amazon.AmazonFilters.executor": "Run",
+    "Python tests.Python tests for test_amazon.AmazonFilters.test_search_with_filters.executor": "Run",
+    "Python tests.Python tests for test_download_files.TestFileDownload.executor": "Run",
+    "Python tests.Python tests for test_ebay.SearchWithFilters.executor": "Run",
+    "Python tests.Python tests for test_ebay.SearchWithFilters.test_search_with_filters.executor": "Run",
+    "Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.executor": "Run",
+    "Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.test_invalid_password.executor": "Run",
+    "Python tests.Python tests for test_login_herokuapp.TestLoginFunctionality.test_login.executor": "Run",
+    "Python tests.Python tests for test_nav_menu.TestNavigation.executor": "Run",
+    "Python tests.Python tests for test_nav_menu.TestNavigationMenu.executor": "Run",
+    "Python tests.Python tests for test_nav_menu.TestNavigationMenu.test_navigation_links.executor": "Run",
+    "Python tests.Python tests for test_nav_menu.TestSeleniumNavigation.executor": "Run",
+    "Python tests.Python tests for test_verify_alerts.TestAlertsJava.executor": "Run",
+    "Python tests.Python tests for test_verify_sign_in_google.TestGoogleAuth.test_google_login.executor": "Run",
+    "Python tests.Python tests in test_verify_sign_in_google.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_amazon.AmazonFilters.test_search_with_filters">
-    <configuration name="Python tests for test_amazon.AmazonFilters" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_ResponsiveDesign.TestResponsiveDesign">
+    <configuration name="Python tests for test_ResponsiveDesign.TestResponsiveDesign" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="unitTest3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +80,22 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_amazon.AmazonFilters&quot;" />
+      <option name="_new_target" value="&quot;test_ResponsiveDesign.TestResponsiveDesign&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_ResponsiveDesign.TestResponsiveDesign.test_ResponsiveDesign" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="unitTest3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ResponsiveDesign.TestResponsiveDesign.test_ResponsiveDesign&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -85,7 +114,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_download_files.TestFileDownload" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_verify_alerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="unitTest3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,11 +125,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_download_files.TestFileDownload&quot;" />
+      <option name="_new_target" value="&quot;test_verify_alerts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_ebay.SearchWithFilters" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_verify_alerts.TestAlertsJava" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="unitTest3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,32 +140,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ebay.SearchWithFilters&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_ebay.SearchWithFilters.test_search_with_filters" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="unitTest3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ebay.SearchWithFilters.test_search_with_filters&quot;" />
+      <option name="_new_target" value="&quot;test_verify_alerts.TestAlertsJava&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_ResponsiveDesign.TestResponsiveDesign" />
+        <item itemvalue="Python tests.Python tests for test_ResponsiveDesign.TestResponsiveDesign.test_ResponsiveDesign" />
+        <item itemvalue="Python tests.Python tests for test_verify_alerts.TestAlertsJava" />
+        <item itemvalue="Python tests.Python tests for test_verify_alerts" />
         <item itemvalue="Python tests.Python tests for test_amazon.AmazonFilters.test_search_with_filters" />
-        <item itemvalue="Python tests.Python tests for test_amazon.AmazonFilters" />
-        <item itemvalue="Python tests.Python tests for test_ebay.SearchWithFilters" />
-        <item itemvalue="Python tests.Python tests for test_ebay.SearchWithFilters.test_search_with_filters" />
-        <item itemvalue="Python tests.Python tests for test_download_files.TestFileDownload" />
       </list>
     </recent_temporary>
   </component>

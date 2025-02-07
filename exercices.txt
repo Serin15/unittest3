@@ -33,18 +33,8 @@ Apply filters for price and category.
 Verify that the displayed results meet the selected criteria.
 
 
-4 Verifying Authentication with Google
-Objective: Test the login process on a website using a Google account.
-Example: A website with the "Sign in with Google" option, such as https://accounts.google.com
 
-Requirements:
-
-Access the website and click "Sign in with Google."
-Enter the username and password.
-Verify that the user is successfully authenticated.
-
-
-5. Testing Pop-up Windows and JavaScript Alerts
+4. Testing Pop-up Windows and JavaScript Alerts
 Objective: Verify the site's behavior when pop-up windows or alerts appear.
 Example: https://the-internet.herokuapp.com/javascript_alerts
 
@@ -55,7 +45,7 @@ Click on each button and handle the alerts.
 Verify that the alert messages are correct.
 
 
-6. Testing Responsive Design (Different Window Sizes)
+5. Testing Responsive Design (Different Window Sizes)
 Objective: Ensure that website elements are displayed correctly on different window sizes.
 Example: https://www.selenium.dev
 
@@ -63,10 +53,10 @@ Requirements:
 
 Set different sizes for the browser window.
 Check if the navigation menu and buttons are visible.
-Test the mobile version of the website.
 
 
-7. Testing Pages with Dynamic Content (Lazy Loading)
+
+6. Testing Pages with Dynamic Content (Lazy Loading)
 Objective: Verify the loading of elements on pages using lazy loading.
 Example: https://www.infinite-scroll.com/demo/full-page/
 
@@ -76,7 +66,7 @@ Scroll down the page to load additional content.
 Verify that elements are displayed correctly after scrolling.
 
 
-8. Verifying Elements that Require Hover (Mouse Over)
+7. Verifying Elements that Require Hover (Mouse Over)
 Objective: Test the behavior of elements that activate when the mouse hovers over them.
 Example: https://the-internet.herokuapp.com/hovers
 
@@ -86,7 +76,7 @@ Hover over each image and check if additional information appears.
 Ensure that links become visible after hovering.
 
 
-9. Testing Pages with Infinite Scrolling
+8. Testing Pages with Infinite Scrolling
 Objective: Verify that pages with infinite scrolling load content correctly.
 Example: https://www.endlessscrolling.com
 
@@ -94,3 +84,28 @@ Requirements:
 
 Scroll down to the end of the content.
 Check if new elements load with each scroll.
+
+
+
+
+9 . Objective:
+Verify that the website handles JavaScript alerts and pop-up windows correctly.
+
+Test Scenario:
+Navigate to the website: Open https://the-internet.herokuapp.com/javascript_alerts.
+Trigger different JavaScript alerts:
+Click the button that generates a simple alert().
+Click the button that generates a confirm() box and select "Cancel".
+Click the button that generates a prompt() box, enter text, and confirm.
+Verify the expected behavior:
+Ensure that the alert box appears.
+Check that dismissing the confirmation box works correctly.
+Verify that entering text in the prompt box updates the page accordingly.
+Close the browser.
+Requirements:
+Use Selenium WebDriver for automation.
+Implement the test using Python and unittest.
+Ensure the test validates the presence and content of alert messages.
+Handle exceptions gracefully and log meaningful error messages.
+Expected Outcome:
+The test should confirm that JavaScript alerts appear as expected and that user actions (accept/dismiss/input text) affect the page correctly.
